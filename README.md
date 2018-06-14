@@ -7,8 +7,7 @@ The Lunar Lander v2 is an OpenAI's Gym is a toolkit for developing and comparing
 
 ## Goal
 The goal is obviously to land the Lunar Lander between the yellow flags without crashing it. A Deep Q learning algorithm is used to achieve this goal. Please see the [animation of the successful simulated landing](https://github.com/srikanth-kilaru/final-project/blob/master/llv2.gif). You can see the source code [here](https://github.com/srikanth-kilaru/final-project/blob/master/ll-v2.py)
-<div align="center"> <img src="llv2.gif" width="700px" /> <p>
-
+<div align="center"> <img src="llv2.gif" width="700px" />
 
 ## Installation
 Please see here for installing [OpenAI Gym](https://gym.openai.com/docs/)
