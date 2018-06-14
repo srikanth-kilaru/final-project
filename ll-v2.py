@@ -212,8 +212,9 @@ if __name__ == '__main__':
             reward += r
             
             test_rewards.append(reward)
-            
+            '''
             print()
             n, bins, patches = plt.hist(np.asarray(test_rewards), 100)
             plt.show()
             np.mean(test_rewards)
+            '''
