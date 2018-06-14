@@ -1,5 +1,6 @@
 # OpenAI Lunar Lander v2
-**Srikanth Kilaru
+Srikanth Kilaru
+
 Northwestern University (Spring 2018)
 
 ## Overview
